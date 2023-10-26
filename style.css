@@ -474,7 +474,7 @@ footer p:nth-child(2) {
   }
 }
 
-@media (max-width: 414px) {
+@media (max-width: 415px) {
   body {
     overflow-x: hidden;
   }
@@ -489,6 +489,11 @@ footer p:nth-child(2) {
 
   h2 {
     font-size: 10px;
+  }
+
+  .about-text h1 {
+    top: 925px;
+    right: 35%;
   }
 
   .newslatter form {
@@ -513,10 +518,9 @@ footer p:nth-child(2) {
   }
 
   .about-text h1 {
-    top: 925px;
-    right: 35%;
-}
-
+    top: 600px;
+    right: 20%;
+  }
 
   .about-text h5 {
     font-size: 18px;
