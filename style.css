@@ -513,6 +513,11 @@ footer p:nth-child(2) {
   }
 
   .about-text h1 {
+    top: 925px;
+    right: 35%;
+}
+  
+  .about-text h1 {
     top: 600px;
     right: 20%;
   }
