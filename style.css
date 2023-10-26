@@ -450,12 +450,6 @@ footer p:nth-child(2) {
     margin-left: 15px;
   }
 
-  .about-text h1 {
-    position: absolute;
-    top: 700px;
-    right: 35%;
-  }
-
   .title h2 {
     font-size: 30px;
   }
@@ -547,5 +541,12 @@ footer p:nth-child(2) {
   footer p:nth-child(2) {
     font-size: 12px;
     width: 300px;
+  }
+}
+
+@media (max-width: 404px) {
+  .about-text h1 {
+    top: 700px;
+    right: 35%;
   }
 }
