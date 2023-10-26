@@ -474,7 +474,7 @@ footer p:nth-child(2) {
   }
 }
 
-@media (max-width: 415px) {
+@media (max-width: 414px) {
   body {
     overflow-x: hidden;
   }
@@ -515,11 +515,6 @@ footer p:nth-child(2) {
 
   .main img {
     width: 130px;
-  }
-
-  .about-text h1 {
-    top: 600px;
-    right: 20%;
   }
 
   .about-text h5 {
